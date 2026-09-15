@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Övning 4 - Metoder/1.0.0": {
+        "runtime": {
+          "Övning 4 - Metoder.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Övning 4 - Metoder/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

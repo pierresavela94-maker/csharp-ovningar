@@ -1,0 +1,15 @@
+C:\Users\pierr\.NET Programering\Övning 4 - Metoder\bin\Debug\net10.0\Övning 4 - Metoder.exe
+C:\Users\pierr\.NET Programering\Övning 4 - Metoder\bin\Debug\net10.0\Övning 4 - Metoder.deps.json
+C:\Users\pierr\.NET Programering\Övning 4 - Metoder\bin\Debug\net10.0\Övning 4 - Metoder.runtimeconfig.json
+C:\Users\pierr\.NET Programering\Övning 4 - Metoder\bin\Debug\net10.0\Övning 4 - Metoder.dll
+C:\Users\pierr\.NET Programering\Övning 4 - Metoder\bin\Debug\net10.0\Övning 4 - Metoder.pdb
+C:\Users\pierr\.NET Programering\Övning 4 - Metoder\obj\Debug\net10.0\Övning 4 - Metoder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pierr\.NET Programering\Övning 4 - Metoder\obj\Debug\net10.0\Övning 4 - Metoder.AssemblyInfoInputs.cache
+C:\Users\pierr\.NET Programering\Övning 4 - Metoder\obj\Debug\net10.0\Övning 4 - Metoder.AssemblyInfo.cs
+C:\Users\pierr\.NET Programering\Övning 4 - Metoder\obj\Debug\net10.0\Övning 4 - Metoder.csproj.CoreCompileInputs.cache
+C:\Users\pierr\.NET Programering\Övning 4 - Metoder\obj\Debug\net10.0\Övning 4 - Metoder.dll
+C:\Users\pierr\.NET Programering\Övning 4 - Metoder\obj\Debug\net10.0\refint\Övning 4 - Metoder.dll
+C:\Users\pierr\.NET Programering\Övning 4 - Metoder\obj\Debug\net10.0\Övning 4 - Metoder.pdb
+C:\Users\pierr\.NET Programering\Övning 4 - Metoder\obj\Debug\net10.0\Övning 4 - Metoder.genruntimeconfig.cache
+C:\Users\pierr\.NET Programering\Övning 4 - Metoder\obj\Debug\net10.0\ref\Övning 4 - Metoder.dll
+C:\Users\pierr\.NET Programering\Övning 4 - Metoder\obj\Debug\net10.0\_vning 4.BD0DC25E.Up2Date

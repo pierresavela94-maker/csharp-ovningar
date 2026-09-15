@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pierr\\.NET Programering\\\u00D6vning 5 - Switch och Metoder\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5675AC19-A02A-E836-3457-E08720BE79D1}|\u00D6vning 5 - Switch och Metoder.csproj|c:\\users\\pierr\\.net programering\\\u00F6vning 5 - switch och metoder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5675AC19-A02A-E836-3457-E08720BE79D1}|\u00D6vning 5 - Switch och Metoder.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pierr\\.NET Programering\\\u00D6vning 5 - Switch och Metoder\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\pierr\\.NET Programering\\\u00D6vning 5 - Switch och Metoder\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAowGcAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-14T12:43:31.425Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
